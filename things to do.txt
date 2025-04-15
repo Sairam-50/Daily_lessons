@@ -1,0 +1,27 @@
+go through a fast api crash course and show demo to akash of the end product tom. 
+
+learn how to use python modules
+learn git:
+	1. initiate a repo
+	2. make changes to file
+	3. add the changes in the git
+	4. commit the changes
+
+why fastapi uses uvicorn or any other servers?
+why and when python uses async and await and how is it different from the ones in JS?
+
+connect the app to a dummy database (postgresql, sqlite) and use orm for object updates.
+
+define a get route /generate that takes the query parameter called domain from the url and returns a json 
+https://bhnetwork.atlassian.net/wiki/spaces/ISC/pages/1427013948/TrustMark+Architecture#API-Spec:   
+
+in the response, there is a jwt token containing these attributes in the payload
+	1. domain
+	2. issued_at
+
+
+
+
+rewrite the entire app with a starter fast template.
+
+add trusted domain logic to block any requests from untrusted origins.
