@@ -1,6 +1,7 @@
-go through a fast api crash course and show demo to akash of the end product tom. 
+go through a fast api crash course and show demo to akash of the end product tom.  
 
 learn how to use python modules
+
 learn git:
 	1. initiate a repo
 	2. make changes to file
